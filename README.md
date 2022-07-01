@@ -4,7 +4,6 @@
 ![Optimization](https://img.shields.io/badge/optimised-0%25-critical.svg)
 ![Built with Love](https://img.shields.io/badge/built%20with-love-important.svg)
 ![Designing](https://img.shields.io/badge/designed%20in-ms%20paint-blueviolet.svg)
-[![Website humap-app.herokuapp.com](https://img.shields.io/website-up-down-green-red/https/humap-app.herokuapp.com.svg)](https://humap-app.herokuapp.com/)
 
 This project was developed by us, **Team ECMAniacs**, as a submission for [Hack36 4.0](https://www.hack36.com/)
 
